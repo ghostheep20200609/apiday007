@@ -1,0 +1,35 @@
+[
+  {
+    "auth_code": "TPSHOP",
+    "scene": "1",
+    "username": "13296494721",
+    "reg_password": "519475228fe35ad067744465c42a19b2",
+    "login_password": "519475228fe35ad067744465c42a19b2",
+    "status": 1,
+    "reg_msg": "注册成功",
+    "login_msg": "登陆成功",
+    "http_code": 200
+  },
+  {
+     "auth_code": "TPSHOP",
+    "scene": "1",
+    "username": "13296496622",
+    "reg_password": "519475228fe35ad067744465c42a19b2",
+    "login_password": "519475228fe35ad067744465c42a19b2",
+    "status": 1,
+    "reg_msg": "注册成功",
+    "login_msg": "登陆成功",
+    "http_code": 200
+  },
+  {
+    "auth_code": "TPSHOP",
+    "scene": "1",
+    "username": "13296496623",
+    "reg_password": "519475228fe35ad067744465c42a19b2",
+    "login_password": "519475228fe35ad067744465c42a19b2",
+    "status": 1,
+    "reg_msg": "注册成功",
+    "login_msg": "登陆成功",
+    "http_code": 200
+  }
+]
